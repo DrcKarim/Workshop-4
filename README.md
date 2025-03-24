@@ -1,3 +1,17 @@
+Please to test it run
+
+```
+npm run start 
+```
+
+before you run 
+
+```
+npm run test
+```
+
+![test_screenshot](https://github.com/user-attachments/assets/4cb4f5fb-c36d-49ae-bc1a-43d5cde6b896)
+
 # simple-onion-router-network
 
 Your goal for this exercise is to implement a version of the onion routing protocol we saw in module 5.
