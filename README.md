@@ -1,3 +1,6 @@
+## This is a screenshot proving that all tests passed successfully:
+![test_screenshot](https://github.com/user-attachments/assets/4cb4f5fb-c36d-49ae-bc1a-43d5cde6b896)
+
 Please to test it run
 
 ```
@@ -10,7 +13,6 @@ before you run
 npm run test
 ```
 
-![test_screenshot](https://github.com/user-attachments/assets/4cb4f5fb-c36d-49ae-bc1a-43d5cde6b896)
 
 # simple-onion-router-network
 
